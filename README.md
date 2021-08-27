@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ushbyorg
-- 👀 I’m interested in Web Development, Security Surveillance Systems and Arabic-English translation of softwares
+- 👀 I’m interested in Web Development, Security Surveillance Systems and Atmospheric Science.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Styling with CSS and HTML, Translation or Content Management Systems such as Joomla, Wordpress
 - 📫 How to reach me https://ushby.org
