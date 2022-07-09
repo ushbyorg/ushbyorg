@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ushbyorg
-- 👀 I’m interested in Web Development, Security Surveillance Systems and Atmospheric Science.
-- 🌱 I’m currently learning Javascript and Sass
-- 💞️ I’m looking to collaborate on Styling with CSS or Administrating CMS such as Joomla and Strapi
-- 📫 How to reach me https://ushby.org
+- 👋 Hi, We're @ushbyorg
+- 👀 We're interested in Translation, Localization and Proofreading.
+- 🌱 We're currently learning Lithuanian
+- 💞️ We're looking to collaborate on Softwares and Web Applications
+- 📫 How to reach us https://management@ushby.org
 
 <!---
 ushbyorg/ushbyorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
